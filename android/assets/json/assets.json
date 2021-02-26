@@ -1,0 +1,22 @@
+[
+  {
+    "name": "floor",
+    "path": "images/floor.jpg"
+  },
+  {
+    "name": "barricade",
+    "path": "images/barricade.jpg"
+  },
+  {
+    "name": "exit",
+    "path": "images/exit.jpg"
+  },
+  {
+    "name": "player",
+    "path": "images/player.jpg"
+  },
+  {
+    "name": "path",
+    "path": "images/path.jpg"
+  }
+]
