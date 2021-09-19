@@ -44,7 +44,7 @@ public abstract class Pathfinding {
 
         compute();
 
-        if(route.isEmpty()) {
+        if(route == null || route.isEmpty()) {
             showDialog("No Possible path.");
         }
     }
